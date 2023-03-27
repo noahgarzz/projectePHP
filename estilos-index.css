@@ -1,0 +1,29 @@
+/* Estilos CSS para los botones */
+a {
+    background-color: #10446c;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
+  
+/* Estilos CSS para el texto superpuesto */
+.overlay {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+  
+/* Estilos CSS para centrar los botones */
+body {
+    text-align: center;
+    padding-top: 400px;
+}
+  
